@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Convertisseur2</string>
+    <string name="valeur_de_la_convertion" />
+    <string name="entrer_le_montant_en_euros_convertir" />
+    <string name="cube">Cube</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_last_name">Enter your last name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="register_firebase">Register Firebase</string>
+    <string name="create_firebase_account">create firebase account</string>
+    <string name="login_firebase">Login Firebase</string>
+    <string name="login">login</string>
+    <string name="create_user">create user</string>
+    <string name="create_account">create account</string>
+    <string name="read_the_firebase_data">read the firebase data</string>
+    <string name="go_back_to_firebase_page">go back to firebase page</string>
+    <string name="what_currency_info_do_you_want_to_have">What currency info do you want to have</string>
+    <string name="read_data">READ DATA</string>
+    <string name="currency">currency</string>
+    <string name="rate">rate</string>
+    <string name="offline_mode">Offline mode</string>
+    <string name="mode_offline">mode offline</string>
+
+    <string-array name="currenceChoice">
+        <item>Choose the currency</item>
+        <item>USD</item>
+        <item>MXN</item>
+        <item>JPY</item>
+        <item>EURO</item>
+        <item>BGN</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HUF</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>ISK</item>
+        <item>NOK</item>
+        <item>HRK</item>
+        <item>TRY</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>HKD</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>KRW</item>
+        <item>MYR</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>ZAR</item>
+    </string-array>
+    <string-array name="currencySelection">
+        <item>Choose the currency</item>
+        <item>USD</item>
+        <item>MXN</item>
+        <item>JPY</item>
+        <item>EURO</item>
+        <item>BGN</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>GBP</item>
+        <item>HUF</item>
+        <item>PLN</item>
+        <item>RON</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>ISK</item>
+        <item>NOK</item>
+        <item>HRK</item>
+        <item>TRY</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>HKD</item>
+        <item>IDR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>KRW</item>
+        <item>MYR</item>
+        <item>NZD</item>
+        <item>PHP</item>
+        <item>SGD</item>
+        <item>THB</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>
